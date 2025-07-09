@@ -21,14 +21,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-## 🎨 Key Features
-```mermaid
-graph TD
-    A[Dark Theme UI] --> B[Anime Search]
-    A --> C[Trending Section]
-    A --> D[User Authentication]
-    A --> E[Community Hub]
-    A --> F[Responsive Design]
+
 📂 Project Structure
 text
 src/
