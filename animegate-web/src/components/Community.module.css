@@ -1,0 +1,82 @@
+.communityContainer {
+  min-height: 100vh;
+  background-color: #000;
+  padding: 4rem 2rem;
+}
+
+.header {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 3rem;
+}
+
+.title {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  background: linear-gradient(to right, #00d4ff, #ffff00);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #ccc;
+  line-height: 1.6;
+}
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.featureCard {
+  background: #111;
+  padding: 2rem;
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+  border: 1px solid #333;
+}
+
+.featureCard:hover {
+  transform: translateY(-5px);
+}
+
+.featureIcon {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  background: linear-gradient(to right, #00d4ff, #ffff00);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.featureTitle {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.featureDescription {
+  color: #ccc;
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.featureButton {
+  padding: 0.8rem 1.5rem;
+  background: linear-gradient(to right, #00d4ff, #ffff00);
+  color: #111;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.featureButton:hover {
+  background: linear-gradient(to right, #00c4ff, #ffee00);
+}

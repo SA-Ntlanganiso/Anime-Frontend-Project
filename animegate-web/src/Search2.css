@@ -1,0 +1,33 @@
+.search-form {
+    display: flex;
+    align-items: center;
+    margin-left: 400px;
+    margin-top: -40px;
+    width: 300px;
+
+  }
+  .search-icon {
+    margin-right: 5px;
+    
+  }
+  .search-input {
+    padding: 8px;
+    border: 1px solid white;
+    width: 300px;
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+  }
+  .search-button:hover{
+    background-color: rgb(223, 4, 4);
+  }
+  .search-button {
+    padding: 8px 10px;
+    border-top-right-radius: 16px;
+
+    border-bottom-right-radius: 16px;
+    border: #555 solid 1px;
+    background-color: #555;
+    color: white;
+    cursor: pointer;
+  }
+  

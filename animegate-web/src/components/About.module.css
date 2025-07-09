@@ -1,0 +1,118 @@
+.aboutContainer {
+  min-height: 100vh;
+  background-color: #000;
+  padding: 4rem 2rem;
+}
+
+.header {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 3rem;
+}
+
+.title {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  background: linear-gradient(to right, #00d4ff, #ffff00);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.description {
+  font-size: 1.2rem;
+  color: #ccc;
+  line-height: 1.6;
+  margin-bottom: 3rem;
+}
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.featureCard {
+  background: #111;
+  padding: 2rem;
+  border-radius: 10px;
+  text-align: center;
+  transition: transform 0.3s ease;
+  border: 1px solid #333;
+}
+
+.featureCard:hover {
+  transform: translateY(-5px);
+}
+
+.featureTitle {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #00d4ff;
+}
+
+.featureDescription {
+  color: #ccc;
+  line-height: 1.6;
+}
+
+.teamSection {
+  max-width: 1200px;
+  margin: 4rem auto 0;
+  text-align: center;
+}
+
+.teamTitle {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  background: linear-gradient(to right, #00d4ff, #ffff00);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.teamGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.teamMember {
+  background: #111;
+  padding: 2rem;
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+  border: 1px solid #333;
+}
+
+.teamMember:hover {
+  transform: translateY(-5px);
+}
+
+.memberImage {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 1rem;
+  border: 3px solid #00d4ff;
+}
+
+.memberName {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  color: white;
+}
+
+.memberRole {
+  color: #ffff00;
+  margin-bottom: 1rem;
+}
+
+.memberBio {
+  color: #ccc;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
