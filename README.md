@@ -83,17 +83,9 @@ https://img.shields.io/badge/tailwindcss-%252338B2AC.svg?style=for-the-badge&log
 https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white
 https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white
 
-🎨 Key Features
-Diagram
-Code
-
-
-
-
-
 
 📂 Project Structure
-text
+
 src/
 ├── components/
 │   ├── Navbar/       # Navigation system
