@@ -1,13 +1,6 @@
 
 # 🎬 Anime Streaming Platform
 
-
-![aaaa](https://github.com/user-attachments/assets/2896c963-775c-49e3-869c-583e47b0b1e5)
-![aaa](https://github.com/user-attachments/assets/6e136b30-400d-4cf8-81c0-6bc16517c6db)
-![aa](https://github.com/user-attachments/assets/d6de235b-f31f-44a1-a6e4-4b0a4b5f4c11)
-![a](https://github.com/user-attachments/assets/669d496d-a42f-4d7e-9bce-4b54a1f8d9ce)
-![aaaaa](https://github.com/user-attachments/assets/0acaeb1a-6a14-475b-80da-dab982e52781)
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2896c963-775c-49e3-869c-583e47b0b1e5" width="24%">
   <img src="https://github.com/user-attachments/assets/6e136b30-400d-4cf8-81c0-6bc16517c6db" width="24%">
