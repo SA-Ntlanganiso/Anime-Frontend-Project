@@ -1,4 +1,3 @@
-
 # 🎬 Anime Streaming Platform
 
 <div align="center">
@@ -21,90 +20,25 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-
-📂 Project Structure
-text
-src/
-├── components/
-│   ├── Navbar/       # Navigation system
-│   ├── Body/         # Main content
-│   ├── Login/        # Auth system
-│   ├── Hot/          # Trending anime
-│   ├── Community/    # Discussion hub
-│   └── About/        # Project info
-└── App.js            # Router configuration
+## 📂 Project Structure
 
 
 
-🚀 Recent Activity
-✅ Polished version committed (force push to main)
 
-📝 114 commits total
+## 🚀 Recent Activity
+- ✅ Polished version committed (force push to main)
+- 📝 114 commits total
+- 💾 33.85MB repository size
+- 📱 Fully responsive design
+- 🔌 Jikan API integration
 
-💾 33.85MB repository size
+## 🔗 Live Demo
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?logo=github)](https://github.com/SA-Ntlanganiso/Anime-Frontend-Project)
 
-📱 Fully responsive design
+[![Visits](https://visitcount.itsvg.in/api?id=SA-Ntlanganiso-Anime&icon=5&color=1)](https://github.com/SA-Ntlanganiso/Anime-Frontend-Project)
 
-🔌 Jikan API integration
+---
 
-🔗 Live Demo
-https://img.shields.io/badge/GitHub-View_Project-181717?logo=github
-
-https://visitcount.itsvg.in/api?id=SA-Ntlanganiso-Anime&icon=5&color=1
-
-<div align="center"> <p>✨ <em>Proudly developed by Sinalo Alizwa Ntlanganiso</em> ✨</p> </div> ```
-Key improvements:
-
-Perfect Alignment: All elements are center-aligned for visual harmony
-
-Responsive Image Grid: Screenshots display in a clean 4-column layout
-
-Consistent Badges: Tech stack badges maintain uniform styling
-
-Visual Hierarchy: Clear section headers with emoji icons
-
-Mermaid Diagram: Properly formatted feature visualization
-
-Activity List: Bullet points with relevant emojis
-
-Footer: Centered attribution with decorative elements
-🌟 Project Highlights
-https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Firebase-039BE5?logo=firebase
-https://img.shields.io/badge/Jikan_API-000000?logo=myanimelist
-
-💻 Tech Stack
-https://img.shields.io/badge/react-%252320232a.svg?style=for-the-badge&logo=react&logoColor=%252361DAFB
-https://img.shields.io/badge/tailwindcss-%252338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
-https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white
-https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white
-
-
-📂 Project Structure
-
-src/
-├── components/
-│   ├── Navbar/       # Navigation system
-│   ├── Body/         # Main content
-│   ├── Login/        # Auth system
-│   ├── Hot/          # Trending anime
-│   ├── Community/    # Discussion hub
-│   └── About/        # Project info
-└── App.js            # Router configuration
-🚀 Recent Activity
-Polished version committed (force push to main)
-
-114 commits total
-
-33.85MB repository size
-
-Fully responsive design
-
-Jikan API integration
-
-🔗 Live Demo
-https://img.shields.io/badge/GitHub-View_Project-181717?logo=github
-
-https://visitcount.itsvg.in/api?id=SA-Ntlanganiso-Anime&icon=5&color=1
-
-<!-- Proudly developed by Sinalo Alizwa Ntlanganiso -->
+<div align="center">
+  <p>✨ <em>Proudly developed by Sinalo Alizwa Ntlanganiso</em> ✨</p>
+</div>
